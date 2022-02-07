@@ -9,3 +9,5 @@ fields:
   label: test
   description: ffgg
   hidden: true
+pages:
+- _posts/ses.md
