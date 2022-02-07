@@ -9,5 +9,3 @@ fields:
   label: test
   description: ffgg
   hidden: true
-pages:
-- _posts/2022-02-07-ses.md
